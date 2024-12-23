@@ -6,4 +6,4 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=plastic&logo=python)
 
-!{Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UvarovaIrina&show icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UvarovaIrina&show icons=true&theme=radical)
